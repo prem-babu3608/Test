@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/prem-babu3608/Prem-babu-bypass"
+		"url": "https://github.com/prem-babu3608/Test"
 	},
 	"keywords": [
 		"BOT",
@@ -22,9 +22,9 @@
 	"author": "PREM-SHARMA",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/prem-babu3608/Prem-babu-bypass/issues"
+		"url": "https://github.com/prem-babu3608/Test/issues"
 	},
-	"homepage": "https://github.com/prem-babu3608/Prem-babu-bypass",
+	"homepage": "https://github.com/prem-babu3608/Test",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
